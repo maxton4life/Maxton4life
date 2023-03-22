@@ -17,11 +17,11 @@
   </a>  
   <a href="https://twitter.com/hameed__kareem" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
+    </a href="https:// >
   </p>
 
 
-<p >I am a self learned devops and cloud engineer. I have hands-on experience in dep
+<p>I am a self learned devops and cloud engineer. I have hands-on experience in deploying applications and working on cloud services infrastructures.
 </p>
 
 
@@ -63,7 +63,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HameedKareem Github Stats" src="https://github-readme-stats.vercel.app/api?username=maxton4life&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxton4life&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maxton4life" height="192px"/>
   <br/>
   </p>
 </details>
@@ -80,7 +80,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=maxton4life&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
