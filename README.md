@@ -1,6 +1,6 @@
 ## Hi, I’m Hameed kareem <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Self-taught+Devops+Engineer./"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Self-taught+Devops+Engineer/"></a>
 </p>
 
 <p align ="center">
@@ -12,17 +12,19 @@
   </a>
    <a href="https://www.linkedin.com/in/abdulhameed-abaulkareem123" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- 
-  </a>  
+  </a>    
   <a href="https://twitter.com/hameed__kareem" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a href="https:// >
   </p>
 
+<br>
 
-<p>I am a self learned devops and cloud engineer. I have hands-on experience in deploying applications and working on cloud services infrastructures.
-</p>
+
+- 🔭 I’m currently working on a project [Devopsrealtime](https://devopsrealtime.com/)
+- 🌱 I’m currently learning Python, Docker and Kubernetes.
+- 💬 Ask me about anything [here](https://github.com/Maxton4life)
+- 📖 I am writing about devops and cloud technologies <a href="https://maxton.hashnode.dev/">
 
 
 
@@ -41,9 +43,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
