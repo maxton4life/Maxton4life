@@ -3,6 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Self-taught+Devops+Engineer/"></a>
 </p>
 
+
+#### 🥂 Let's Connect
 <p align ="center">
   <a href="https://maxton.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
@@ -21,9 +23,8 @@
 <br>
 
 #### About Me 🧑‍🦱
-- 😃 I am so facinated about Devops and Cloud Technologies
-- 🔭 I’m currently working on projects [Devopsrealtime](https://devopsrealtime.com/)
-- 🌱 I’m currently learning Python, Docker and Kubernetes.
+- 😃 I am so facinated about Devops and Cloud Technologies.
+- 🌱 I’m currently working on projects [Devopsrealtime](https://devopsrealtime.com/)
 - 💬 Ask me about anything [here](https://github.com/Maxton4life)
 - 📖 I am writing about DevOps and Cloud technologies [Hashnode](https://maxton.hashnode.dev/)
 
@@ -75,4 +76,4 @@
 -----
 Credits:[HameedKareem](https://github.com/maxton4life)
 
-Last Edited on: 3/21/2023
+Last Edited on: 6/05/2023
